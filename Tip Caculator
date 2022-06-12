@@ -1,0 +1,18 @@
+
+A = int(input())
+
+print ("Your Bill Is:") 
+
+print (A)
+
+print ("10 % Tip Would Be:")
+
+print ((A * 10) /100)
+
+print ("15 % Tip Would Be:")
+
+print ((A * 15) /100)
+
+print ("20 & Tip Would Be:")
+
+print ((A * 20) /100)
